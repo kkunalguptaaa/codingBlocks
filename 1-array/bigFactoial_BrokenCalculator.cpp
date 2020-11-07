@@ -2,7 +2,7 @@
 #include<algorithm>
 #include<vector>
 #include<cmath>
-using namespace std;
+using namespace std;;
 
 void multiply(vector<int> &res,int n){
     vector<int> res_cpy;
